@@ -87,7 +87,7 @@ a:hover{
     background-clip: text;
     color: transparent;
 }
-
+ 
 ul[role="list"]{
     list-style: none;
 }
