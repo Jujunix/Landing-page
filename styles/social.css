@@ -1,4 +1,4 @@
-a.social {
+.social{
     --bg-img:"";
     background-image: var(--bg-img);
     width: 1.5rem;
@@ -40,5 +40,4 @@ a.social {
      --bg-img: url("../assets/icons/discord-hover.svg");
     }
 }
-
 }
